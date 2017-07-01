@@ -1,1 +1,16 @@
-{"front":"test1","back":"test1"};{"front":"test2","back":"test2"};{"front":"test3","back":"test3"};
+{
+  "front": "Who was the first president of the United States?",
+  "back": "George Washington"
+};{
+  "front": "Which president made the Louisianna Purchase in 1803?",
+  "back": "Thomas Jefferson"
+};{
+  "front": "Who was the first president to die in office?",
+  "back": "William Henry Harrison"
+};{
+  "front": "Who was the first president assassinated?",
+  "back": "Abraham Lincoln"
+};{
+  "front": "Which president created the CIA?",
+  "back": "Harry S. Truman"
+};

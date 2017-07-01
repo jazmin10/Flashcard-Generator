@@ -1,0 +1,13 @@
+{
+  "text": "George Washington was the first president of the United States.",
+  "cloze": "George Washington"
+};{
+  "text": "William H Harrison was the first president to die in office in 1841.",
+  "cloze": "first"
+};{
+  "text": "Abraham Lincoln was the first president to be assassinated.",
+  "cloze": "assassinated"
+};{
+  "text": "Theodore Roosevelt won a Nobel Peace Prize for negotiating of peace in Russo-Japanese War.",
+  "cloze": "Nobel Peace Prize"
+};
