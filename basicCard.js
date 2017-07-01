@@ -1,4 +1,8 @@
-/* ASSIGNMENT #11: FLASHCARD-GENERATOR */
+/* ASSIGNMENT #11: FLASHCARD-GENERATOR
+Simply run node main.js on the command line and you will be prompted to either:
+Create a Basic Card
+Create a Cloze Card
+Review Existing Cards */
 
 // BasicCard Constructor
 var BasicCard = function(front, back){
